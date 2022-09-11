@@ -9,3 +9,6 @@
 - [Next.js 源码解读](https://blog.csdn.net/voissurtonchemin/category_11503809.html)
 
 ### 英语
+- [Daily English](DailyEnglish.md)
+- [Work English](WorkEnglish.md)
+- [BEC](BCEEnglish.md)
