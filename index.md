@@ -1,12 +1,11 @@
-### 技术专栏
+### 技术
+- [jQuery常用方法](https://article.itxueyuan.com/xlZqae)
+- [Quartz.Net的使用](https://blog.csdn.net/sammy520/article/details/81407870)
 
-- [编程的本质](https://www.zhihu.com/column/c_1537780429205196800)
-- [编程入门指南](https://www.zhihu.com/column/c_1537784579317977088)
-- [编程进阶指南](https://www.zhihu.com/column/c_1539720267319885824)
-- [程序员实用工具](https://www.zhihu.com/column/c_1546055736630996992)
-- [Mockito 源码解读](https://blog.csdn.net/voissurtonchemin/category_11851543.html)
-- [JUnit 源码解读](https://blog.csdn.net/voissurtonchemin/category_11863385.html)
-- [Next.js 源码解读](https://blog.csdn.net/voissurtonchemin/category_11503809.html)
+### 工具
+- [软件下载](https://getintopc.com/)
+- [文本对比](https://www.jq22.com/textDifference)
+- [思维导图](https://www.processon.com/)
 
 ### 英语
 - [Daily English](DailyEnglish.md)
