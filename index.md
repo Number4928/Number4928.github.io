@@ -9,5 +9,3 @@
 
 ### 英语
 - [Daily English](english.html)
-- [Work English](WorkEnglish.md)
-- [BEC](BCEEnglish.md)
