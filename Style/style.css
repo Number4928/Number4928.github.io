@@ -1,0 +1,28 @@
+.main-header {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 30px;
+  font-size: 24px;
+  background:url("../images/4.jpg")
+}
+
+.main-header h1 {
+  margin-top: 0;
+  color: #eee;
+}
+
+h1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+
+}
+
+body {
+  font-size: 16px;
+  font-weight: 0;
+  font-family: "Helvetica Neue";
+}
+
+.panel-body {
+  line-height:50%
+}

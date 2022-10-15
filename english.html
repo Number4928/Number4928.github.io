@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>单词卡片</title>
+  <script src="./Script/english.js"></script>
+  <script src="./Script/vue.min.js"></script>
+  <script src="./Script/jquery.min.js"></script>
+  <link rel="stylesheet" href="./Style/style.css">
+  <link rel="stylesheet" href="./Style/bootstrap.min.css">
+</head>
+
+<body>
+  <div id="app">
+    <div class="container">
+      <div>
+        <h1>单词本·每日</h1>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div v-for="item1 in enWordList">
+              <div class="panel panel-primary">
+                <div class="panel-heading">
+                  <h3 class="panel-title">{{ item1.date }}</h3>
+                </div>
+                <div class="panel-body" v-for="item in item1.words">
+                  {{ item }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script>
+  var app = new Vue({
+    el: "#app",
+    data: {
+      enWordList: enWordList
+    }
+  })
+
+</script>
+
+</html>

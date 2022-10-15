@@ -8,6 +8,6 @@
 - [思维导图](https://www.processon.com/)
 
 ### 英语
-- [Daily English](DailyEnglish.md)
+- [Daily English](english.html)
 - [Work English](WorkEnglish.md)
 - [BEC](BCEEnglish.md)
